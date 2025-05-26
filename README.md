@@ -25,6 +25,7 @@ Ideal for ecommerce managers, data analysts, and marketing teams to gain actiona
 Preview
 
 (Insert dashboard image or screenshot here)  
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/Rhythm910/sales-dashboard/blob/main/Screenshot%20(13).png)
+
 
 
